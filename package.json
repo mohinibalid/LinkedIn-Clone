@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://mohinibalid.github.io/LinkedIn-Clone",
+  "homepage": "http://mohinibalid.github.io/LinkedIn-Clone/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
